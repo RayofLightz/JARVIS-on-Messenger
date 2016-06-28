@@ -16,5 +16,5 @@ __all__ = [
     'video',
     'weather',
     'wiki',
-    'coin flip',
+    'coin_flip',
 ]
