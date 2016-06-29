@@ -1,7 +1,7 @@
 import requests
 import config
 import json
-import random import randit
+from random import randit
 from templates.txt import TextTemplate
 heads = open(heads.txt,r+)
 tails = open(tails.txt, r+)
